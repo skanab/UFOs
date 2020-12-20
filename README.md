@@ -6,8 +6,13 @@ Dana’s webpage and dynamic table are working as intended. Still, she’d like 
 ## Results
 The project team implemented the additional filtering. The users are now able to filter on any of the five different criteria. Filters are cumulative and allow the user to drill down into the results that they need. As expected, the users have been very impressed.
 
+Inital page with unfiltered data:
 ![Screen Shot 1](https://github.com/skanab/UFOs/blob/main/support/screenshot1.PNG?raw=true)
+
+The user has filtered by 'el cajon' their city of interest due to the little green men's many visits.
 ![Screen Shot 2](https://github.com/skanab/UFOs/blob/main/support/screenshot2.PNG?raw=true)
+
+The user has further filtered by shape.
 ![Screen Shot 3](https://github.com/skanab/UFOs/blob/main/support/screenshot3.PNG?raw=true)
 
 
